@@ -7,7 +7,7 @@ class day2{
  Scanner sc=new Scanner(System.in);
  System.out.printf("Enter the character:");
  Char c=sc.next().CharAt(0);
- if((c<='A' && c>='a') || (c<='a' && c>='z')){
+ if((c<='A' && c>='Z') || (c<='a' && c>='z')){
  System.out.println("Its an Alphabet");
  
  }
