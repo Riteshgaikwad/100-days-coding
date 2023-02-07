@@ -23,7 +23,7 @@ class day8{
             x1=-b/2*a;
             x2=x1;
             System.out.println("Roots are real and same");
-
+            System.out.println(x1+","+x2);
         }
         else{
             double real,img;
