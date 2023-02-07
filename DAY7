@@ -1,5 +1,4 @@
-//Question:-Get the number of month and year as input from the user and check the number of days present in that 
-month.
+//Question:-Get the number of month and year as input from the user and check the number of days present in that month.
 //Solution in java
 
 import java.util.Scanner;
